@@ -1,0 +1,20 @@
+{
+    "name": "needle-project/eloquent-custom-cast",
+    "description": "A simple way of casting eloquent attributes to a custom object",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adrian Tilita",
+            "email": "adrian@tilita.ro",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "7.*"
+    },
+    "autoload": {
+        "psr-4": {"NeedleProject\\EloquentCustomCast\\": "src/"}
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
